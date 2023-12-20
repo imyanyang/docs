@@ -1,4 +1,4 @@
-<mxfile modified="2023-12-20T21:31:07.960Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gj6GBZCNHHT3BJd6owHU" version="22.1.11" type="github">
+<mxfile modified="2023-12-20T21:40:00.300Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="GM8qY0kMolmgr16uNX5q" version="22.1.11" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -119,8 +119,8 @@
             <mxPoint x="585" y="84" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HO2EvUsL2GoU_nmsxxpT-29" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;Material NonPublic Information&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="520" y="150" width="130" height="50" as="geometry" />
+        <mxCell id="HO2EvUsL2GoU_nmsxxpT-29" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;Material NonPublic Information&lt;br&gt;(MNPI)&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="520" y="130" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HO2EvUsL2GoU_nmsxxpT-31" value="Creditors" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxnIGZpbGw9IiNGRjk4MDAiPiYjeGE7ICAgICAgICA8cmVjdCB4PSIxIiB5PSIzOCIgd2lkdGg9IjQ2IiBoZWlnaHQ9IjIiLz4mI3hhOyAgICAgICAgPHJlY3QgeD0iMjUiIHk9IjE4IiB3aWR0aD0iNCIgaGVpZ2h0PSIxNiIvPiYjeGE7ICAgICAgICA8cmVjdCB4PSIzMSIgeT0iMTgiIHdpZHRoPSI0IiBoZWlnaHQ9IjE2Ii8+JiN4YTsgICAgICAgIDxyZWN0IHg9IjM3IiB5PSIxOCIgd2lkdGg9IjQiIGhlaWdodD0iMTYiLz4mI3hhOyAgICAgICAgPHJlY3QgeD0iMTkiIHk9IjE4IiB3aWR0aD0iNCIgaGVpZ2h0PSIxNiIvPiYjeGE7ICAgICAgICA8cmVjdCB4PSIxMyIgeT0iMTgiIHdpZHRoPSI0IiBoZWlnaHQ9IjE2Ii8+JiN4YTsgICAgICAgIDxyZWN0IHg9IjciIHk9IjE4IiB3aWR0aD0iNCIgaGVpZ2h0PSIxNiIvPiYjeGE7ICAgICAgICA8cG9seWdvbiBwb2ludHM9IjQzLDE2IDUsMTYgNSwxMyAyNCw0IDQzLDEzIi8+JiN4YTsgICAgICAgIDxyZWN0IHg9IjUiIHk9IjM0IiB3aWR0aD0iMzgiIGhlaWdodD0iMiIvPiYjeGE7ICAgIDwvZz4mI3hhOyAgICA8ZyBmaWxsPSIjRUY2QzAwIj4mI3hhOyAgICAgICAgPHJlY3QgeD0iMjUiIHk9IjE2IiB3aWR0aD0iNCIgaGVpZ2h0PSIyIi8+JiN4YTsgICAgICAgIDxyZWN0IHg9IjMxIiB5PSIxNiIgd2lkdGg9IjQiIGhlaWdodD0iMiIvPiYjeGE7ICAgICAgICA8cmVjdCB4PSIzNyIgeT0iMTYiIHdpZHRoPSI0IiBoZWlnaHQ9IjIiLz4mI3hhOyAgICAgICAgPHJlY3QgeD0iMTkiIHk9IjE2IiB3aWR0aD0iNCIgaGVpZ2h0PSIyIi8+JiN4YTsgICAgICAgIDxyZWN0IHg9IjEzIiB5PSIxNiIgd2lkdGg9IjQiIGhlaWdodD0iMiIvPiYjeGE7ICAgICAgICA8cmVjdCB4PSI3IiB5PSIxNiIgd2lkdGg9IjQiIGhlaWdodD0iMiIvPiYjeGE7ICAgICAgICA8cmVjdCB4PSIzIiB5PSIzNiIgd2lkdGg9IjQyIiBoZWlnaHQ9IjIiLz4mI3hhOyAgICAgICAgPGNpcmNsZSBjeD0iMjQiIGN5PSIxMSIgcj0iMiIvPiYjeGE7ICAgIDwvZz4mI3hhOzwvc3ZnPg==;" vertex="1" parent="1">
           <mxGeometry x="570" y="520" width="48" height="48" as="geometry" />
@@ -189,12 +189,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HO2EvUsL2GoU_nmsxxpT-49" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;SEC&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="990" y="280" width="30" height="60" as="geometry" />
+          <mxGeometry x="1010" y="280" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HO2EvUsL2GoU_nmsxxpT-50" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="600" as="sourcePoint" />
-            <mxPoint x="556" y="40" as="targetPoint" />
+            <mxPoint x="570" y="40" as="targetPoint" />
             <Array as="points">
               <mxPoint x="130" y="40" />
             </Array>
@@ -212,7 +212,7 @@
             <mxPoint x="600" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HO2EvUsL2GoU_nmsxxpT-60" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+        <mxCell id="HO2EvUsL2GoU_nmsxxpT-60" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.813;exitY=0.625;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HO2EvUsL2GoU_nmsxxpT-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="40" as="sourcePoint" />
             <mxPoint x="965" y="600" as="targetPoint" />
@@ -250,6 +250,9 @@
               <mxPoint x="590" y="600" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HO2EvUsL2GoU_nmsxxpT-71" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;Do&amp;nbsp; hedge funds exploit MNPI to trade non-bankrupt firms&#39; securities? Do hedge funds violate insider trading rule?&lt;/font&gt;&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="970" y="140" width="170" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
