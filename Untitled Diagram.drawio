@@ -1,4 +1,4 @@
-<mxfile modified="2023-12-21T20:30:37.824Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BqZvwDdK4Nex2-8E4TxM" version="22.1.11" type="github">
+<mxfile modified="2023-12-21T20:33:36.125Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2sojDbd1qosrgRQktVjV" version="22.1.11" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -251,8 +251,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HO2EvUsL2GoU_nmsxxpT-71" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;Do&amp;nbsp; hedge funds exploit MNPI to trade non-bankrupt firms&#39; securities? Do hedge funds violate insider trading rule?&lt;/font&gt;&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="970" y="140" width="170" height="140" as="geometry" />
+        <mxCell id="2Vs_VjpgWm9UbMa84dgt-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="80" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
